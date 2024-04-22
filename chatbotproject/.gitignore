@@ -1,9 +1,9 @@
-{% load staticfiles %}
+venv{% load staticfiles %}
 
 <!DOCTYPE html>
 <html>
    <head>
-      <title>AggieAI</title>
+      <title>AggieBot</title>
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
@@ -19,7 +19,7 @@
          <div class="widget">
             <div class="chat_header">
                <!--Add the name of the bot here -->
-               <span style="color:white;margin-left: 5px;">AggieAI</span>
+               <span style="color:white;margin-left: 5px;">AggieBot</span>
                <span style="color:white;margin-right: 5px;float:right;margin-top: 5px;" id="close">
                <i class="material-icons">close</i>
                </span>
