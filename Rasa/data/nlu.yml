@@ -6,13 +6,7 @@ nlu:
     - hey
     - hello
     - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
+    - hi bot
     - goodmorning
     - goodevening
     - good afternoon
@@ -29,11 +23,11 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - Ciao
 
 - intent: affirm
   examples: |
     - yes
-    - y
     - indeed
     - of course
     - that sounds good
@@ -89,3 +83,7 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+
+
+
